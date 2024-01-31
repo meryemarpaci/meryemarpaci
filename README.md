@@ -1,7 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Meryem. I'm working on Android application development, Cyber Security (Pentester), Artificial Intelligence. I am sharing my projects here.
+I'm Meryem. I'm working on Android application development, Cyber Security, Artificial Intelligence. I am sharing my projects here.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">

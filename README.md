@@ -1,20 +1,19 @@
-# 💫 About Me:
-🔭 I am a student of artificial intelligence and data engineering<br>🌱 I’m currently learning everything<br>💬 Ask me about android development, cyber security,deep learning<br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meryemarpaci) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meryeemarpaci) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meryem-arpaci/) 
+### Hi, Welcome To My Github Profile 👋 👋 👋
 
+I'm Meryem. I'm working on Android application development, Cyber Security (Pentester), Artificial Intelligence. I am sharing my projects here.
+<h3 align="center">Connect with me:</h3>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=meryemarpaci&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=meryemarpaci&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemarpaci&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=meryemarpaci&color=green" alt="meryemarpaci :: Profile Stats"></a>
+<a href="mailto:meryemarpaci8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meryemarpaci8@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/meryemarpaci/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@meryemarpaci-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/meryeemarpaci/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-meryeemarpaci-black?style=flat-square&logo=instagram"></a>
+</p>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meryemarpaci&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=meryemarpaci&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">My GitHub Stats :bar_chart:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meryemarpaci&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemarpaci&layout=compact&theme=tokyonight" height="180">
+  
+</p>

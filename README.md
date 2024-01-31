@@ -7,7 +7,7 @@ I'm Meryem. I'm working on Android application development, Cyber Security, Arti
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=meryemarpaci&color=green" alt="meryemarpaci :: Profile Stats"></a>
 <a href="mailto:meryemarpaci8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meryemarpaci8@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/meryemarpaci/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@meryemarpaci-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/meryem-arpaci/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@meryem-arpaci-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/meryeemarpaci/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-meryeemarpaci-black?style=flat-square&logo=instagram"></a>
 </p>
 

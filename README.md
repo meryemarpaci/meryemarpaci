@@ -17,7 +17,7 @@ I'm Meryem. I'm working on Android application development, Cyber Security (Pent
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="vertical">
+<p align="horizonal">
   <img src="https://github-readme-stats.vercel.app/api?username=meryemarpaci&show_icons=true&theme=tokyonight" width="450" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemarpaci&layout=compact&theme=tokyonight" height="180">
   

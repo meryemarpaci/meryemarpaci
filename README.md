@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Meryem. I'm working on Machine Learning - Deep Learning, Data Science, Android Application Development, Cyber Security, Artificial Intelligence. I am sharing my projects here.
+I'm Meryem. I'm working on Machine Learning - Deep Learning, Data Science, Android Application Development, Cyber Security. I am sharing my projects here.
 
 
 ## 🌐 Socials:

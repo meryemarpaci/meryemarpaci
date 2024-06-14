@@ -12,9 +12,6 @@ I'm Meryem. I'm working on Machine Learning - Deep Learning, Data Science, Andro
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meryemarpaci&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemarpaci&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meryemarpaci&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=meryemarpaci&icon=2&color=10)](https://visitcount.itsvg.in)
 
